@@ -1,0 +1,146 @@
+body{ 
+    color : #2a9d8f;
+    background-color: #f8f5e2;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header:nth-of-type(1) img {
+    transform: scaleX(-1);
+    position: absolute;
+    width: 59vh;
+    height: 100vh;  
+    left: -32vh;
+    opacity: 50%;
+}
+header:nth-of-type(2) img{
+    position: absolute;
+    width: 30vh;
+    height: 50vh;
+    border-top-right-radius: 12vh;
+    border-bottom-left-radius: 12vh;
+    border: 1vh solid #2a9d8f;
+    top: 25vh;
+    margin-left: 5vh ;
+    
+}
+img[id="fundao"]{
+    position: absolute;
+    width: 30vh;
+    height: 50vh;
+    top: 20vh;
+    margin-left: 80vh ;
+
+}
+img[id="fundao2"]{
+    position: absolute;
+    width: 30vh;
+    height: 30vh;
+    top: 30vh;
+    margin-left: 120vh ;
+    opacity: 70%;
+
+}
+
+h1{
+    position: absolute;
+    color: #2a9d8f;
+    top: 16vh;
+    left: 45vh;
+    font-size: 3vh;
+    white-space: nowrap;
+}
+
+h2{
+    position: absolute;
+    color: #2a9d8f;
+    top: 17vh;
+    left: 49vh;
+    font-size: 6vh;
+    white-space: nowrap;
+}
+
+h3{
+    position: absolute;
+    top: 30vh;
+    left: 45vh;
+    font-size: 3vh;
+    font-weight: bold;
+    white-space: nowrap;
+}
+h4{
+    position: absolute;
+    top: 40vh;
+    left: 45vh;
+    font-size: 3vh;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+h5{
+    position:absolute;
+    top: 50vh;
+    left: 45vh;
+    font-size: 3vh;
+    white-space: nowrap;
+}
+
+h6{
+    position: absolute;
+    top: 60vh;
+    left: 45vh;
+    font-size: 3vh;
+    white-space: nowrap;
+}
+
+h7{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 79vh;
+    left: 45vh;
+    font-size: 3vh;
+    font-weight: bold;
+    white-space: nowrap;
+}
+header:nth-of-type(3) img{
+    position: absolute;
+    top:90vh;
+    left: 17vh;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+}
+a{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 91vh;
+    left: 22vh;
+    font-size: 2.5vh;
+    font-weight: bold;
+    text-decoration: none;
+    color: #2a9d8f;
+}
+
+header:nth-of-type(4) img{
+    position: absolute;
+    top: 100vh;
+    left: 17.8vh;
+    width: 3.5vh;
+    height: 3.5vh;
+    
+}
+a[id="carrinho"]{
+    position: absolute;
+    top: 101vh;
+    left: 22vh;
+    font-size: 2.5vh;
+
+}
+
+header:nth-of-type(5) img{
+    opacity: 70%;
+    position: absolute;
+    width: 20vh;
+    height: 20vh;
+    top: 70vh;
+    margin-left: 70vh;
+}

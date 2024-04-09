@@ -34,61 +34,11 @@ h1{
     white-space: nowrap;
 }
 
-h2{
-    position: absolute;
-    color: #2a9d8f;
-    top: 17vh;
-    left: 37vh;
-    font-size: 6vh;
-    white-space: nowrap;
-}
 
-h3{
-    position: absolute;
-    top: 30vh;
-    left: 30vh;
-    font-size: 3vh;
-    font-weight: bold;
-    white-space: nowrap;
-}
-h4{
-    position: absolute;
-    top: 40vh;
-    left: 30vh;
-    font-size: 3vh;
-    font-weight: bold;
-    white-space: nowrap;
-}
-
-h5{
-    position:absolute;
-    top: 50vh;
-    left: 30vh;
-    font-size: 3vh;
-    white-space: nowrap;
-}
-
-h6{
-    position: absolute;
-    top: 60vh;
-    left: 30vh;
-    font-size: 3vh;
-    white-space: nowrap;
-}
-
-h7{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: absolute;
-    top: 79vh;
-    left: 30vh;
-    font-size: 3vh;
-    font-weight: bold;
-    white-space: nowrap;
-}
 header:nth-of-type(3) img{
     position: absolute;
-    top:90vh;
-    left: 17vh;
+    top:25vh;
+    left: 35vh;
     width: 5vh;
     height: 5vh;
     border-radius: 50%;
@@ -96,8 +46,8 @@ header:nth-of-type(3) img{
 a{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
-    top: 91vh;
-    left: 22vh;
+    top: 27vh;
+    left: 37vh;
     font-size: 2.5vh;
     font-weight: bold;
     text-decoration: none;
@@ -106,16 +56,16 @@ a{
 
 header:nth-of-type(4) img{
     position: absolute;
-    top: 100vh;
-    left: 17.8vh;
+    top: 32vh;
+    left: 35vh;
     width: 3.5vh;
     height: 3.5vh;
     
 }
 a[id="carrinho"]{
     position: absolute;
-    top: 101vh;
-    left: 22vh;
+    top: 33.5vh;
+    left: 37vh;
     font-size: 2.5vh;
 
 }

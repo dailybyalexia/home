@@ -24,23 +24,6 @@ header:nth-of-type(2) img{
     margin-left: 3vh ;
     
 }
-img[id="fundao"]{
-    position: absolute;
-    width: 30vh;
-    height: 50vh;
-    top: 20vh;
-    margin-left: 80vh ;
-
-}
-img[id="fundao2"]{
-    position: absolute;
-    width: 30vh;
-    height: 30vh;
-    top: 30vh;
-    margin-left: 120vh ;
-    opacity: 70%;
-
-}
 
 h1{
     position: absolute;

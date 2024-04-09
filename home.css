@@ -10,8 +10,9 @@ header:nth-of-type(1) img {
     position: absolute;
     width: 59vh;
     height: 100vh;  
-    left: -25vh;
+    left: -23vh;
     opacity: 50%;
+    z-index:1;
 }
 img[id="bee"]{
     position: absolute;
@@ -22,7 +23,7 @@ img[id="bee"]{
     border: 1vh solid #2a9d8f;
     top: 23vh;
     margin-left: 1vh ;
-    
+    z-index:2;
 }
 
 h1{

@@ -10,18 +10,18 @@ header:nth-of-type(1) img {
     position: absolute;
     width: 59vh;
     height: 100vh;  
-    left: -32vh;
+    left: -30vh;
     opacity: 50%;
 }
 img[id="bee"]{
     position: absolute;
-    width: 10vh;
-    height: 20vh;
+    width: 5vh;
+    height: 15vh;
     border-top-right-radius: 12vh;
     border-bottom-left-radius: 12vh;
     border: 1vh solid #2a9d8f;
-    top: 25vh;
-    margin-left: 3vh ;
+    top: 23vh;
+    margin-left: 1vh ;
     
 }
 

@@ -13,7 +13,7 @@ header:nth-of-type(1) img {
     left: -32vh;
     opacity: 50%;
 }
-header:nth-of-type(2) img{
+img[id="bee"]{
     position: absolute;
     width: 10vh;
     height: 20vh;

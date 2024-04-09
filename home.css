@@ -20,7 +20,7 @@ img[id="bee"]{
     border-top-right-radius: 12vh;
     border-bottom-left-radius: 12vh;
     border: 1vh solid #2a9d8f;
-    top: 23vh;
+    top: 28vh;
     margin-left: 1vh ;
     z-index:2;
 }
@@ -29,7 +29,7 @@ h1{
     position: absolute;
     color: #2a9d8f;
     top: 16vh;
-    left: 15vh;
+    left: 35vh;
     font-size: 3vh;
     white-space: nowrap;
 }
@@ -38,7 +38,7 @@ h2{
     position: absolute;
     color: #2a9d8f;
     top: 17vh;
-    left: 49vh;
+    left: 37vh;
     font-size: 6vh;
     white-space: nowrap;
 }
@@ -54,7 +54,7 @@ h3{
 h4{
     position: absolute;
     top: 40vh;
-    left: 45vh;
+    left: 30vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;
@@ -63,7 +63,7 @@ h4{
 h5{
     position:absolute;
     top: 50vh;
-    left: 45vh;
+    left: 30vh;
     font-size: 3vh;
     white-space: nowrap;
 }
@@ -71,7 +71,7 @@ h5{
 h6{
     position: absolute;
     top: 60vh;
-    left: 45vh;
+    left: 30vh;
     font-size: 3vh;
     white-space: nowrap;
 }
@@ -80,7 +80,7 @@ h7{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 79vh;
-    left: 45vh;
+    left: 30vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;

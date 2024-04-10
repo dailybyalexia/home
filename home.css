@@ -45,16 +45,17 @@ h2{
 h3{
     position: absolute;
     top: 30vh;
-    left: 30vh;
+    left: 26vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;
+    font-size:2vh;
 }
 
 header:nth-of-type(3) img{
     position: absolute;
     top:50vh;
-    left: 30vh;
+    left: 26vh;
     width: 5vh;
     height: 5vh;
     border-radius: 50%;
@@ -63,7 +64,7 @@ a{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 51vh;
-    left: 35vh;
+    left: 31vh;
     font-size: 2.5vh;
     font-weight: bold;
     text-decoration: none;
@@ -72,16 +73,16 @@ a{
 
 header:nth-of-type(4) img{
     position: absolute;
-    top: 60vh;
-    left: 30vh;
+    top: 65vh;
+    left: 26vh;
     width: 3.5vh;
     height: 3.5vh;
     
 }
 a[id="carrinho"]{
     position: absolute;
-    top: 60.5vh;
-    left: 34.5vh;
+    top: 65.5vh;
+    left: 30.5vh;
     font-size: 2.5vh;
 
 }

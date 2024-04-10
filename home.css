@@ -36,20 +36,20 @@ h1{
 h2{
     position: absolute;
     color: #2a9d8f;
-    top: 18vh;
-    left: 33vh;
+    top: 17vh;
+    left: 34vh;
     font-size: 6vh;
     white-space: nowrap;
 }
 
 h3{
     position: absolute;
-    top: 30vh;
+    top: 35vh;
     left: 26vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;
-    font-size:2vh;
+    font-size:1vh;
 }
 
 header:nth-of-type(3) img{

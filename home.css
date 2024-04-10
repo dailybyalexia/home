@@ -36,7 +36,7 @@ h1{
 h2{
     position: absolute;
     color: #2a9d8f;
-    top: 17vh;
+    top: 15.5vh;
     left: 34vh;
     font-size: 6vh;
     white-space: nowrap;
@@ -44,8 +44,8 @@ h2{
 
 h3{
     position: absolute;
-    top: 35vh;
-    left: 26vh;
+    top: 45vh;
+    left: 30vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;
@@ -73,7 +73,7 @@ a{
 
 header:nth-of-type(4) img{
     position: absolute;
-    top: 65vh;
+    top: 60vh;
     left: 26vh;
     width: 3.5vh;
     height: 3.5vh;
@@ -81,7 +81,7 @@ header:nth-of-type(4) img{
 }
 a[id="carrinho"]{
     position: absolute;
-    top: 65.5vh;
+    top: 60.5vh;
     left: 30.5vh;
     font-size: 2.5vh;
 

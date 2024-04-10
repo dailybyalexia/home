@@ -20,7 +20,7 @@ img[id="bee"]{
     border-top-right-radius: 12vh;
     border-bottom-left-radius: 12vh;
     border: 1vh solid #2a9d8f;
-    top: 28vh;
+    top: 23vh;
     margin-left: 1vh ;
     z-index:2;
 }
@@ -44,12 +44,12 @@ h2{
 
 h3{
     position: absolute;
-    top: 45vh;
+    top: 40vh;
     left: 30vh;
     font-size: 3vh;
     font-weight: bold;
     white-space: nowrap;
-    font-size:1vh;
+    font-size:2.5vh;
 }
 
 header:nth-of-type(3) img{

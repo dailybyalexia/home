@@ -29,16 +29,32 @@ h1{
     position: absolute;
     color: #2a9d8f;
     top: 16vh;
-    left: 35vh;
+    left: 30vh;
     font-size: 3vh;
     white-space: nowrap;
 }
+h2{
+    position: absolute;
+    color: #2a9d8f;
+    top: 18vh;
+    left: 33vh;
+    font-size: 6vh;
+    white-space: nowrap;
+}
 
+h3{
+    position: absolute;
+    top: 30vh;
+    left: 45vh;
+    font-size: 3vh;
+    font-weight: bold;
+    white-space: nowrap;
+}
 
 header:nth-of-type(3) img{
     position: absolute;
-    top:25vh;
-    left: 35vh;
+    top:40vh;
+    left: 30vh;
     width: 5vh;
     height: 5vh;
     border-radius: 50%;
@@ -46,8 +62,8 @@ header:nth-of-type(3) img{
 a{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
-    top: 27vh;
-    left: 37vh;
+    top: 41vh;
+    left: 33vh;
     font-size: 2.5vh;
     font-weight: bold;
     text-decoration: none;
@@ -56,16 +72,16 @@ a{
 
 header:nth-of-type(4) img{
     position: absolute;
-    top: 32vh;
-    left: 35vh;
+    top: 50vh;
+    left: 30vh;
     width: 3.5vh;
     height: 3.5vh;
     
 }
 a[id="carrinho"]{
     position: absolute;
-    top: 33.5vh;
-    left: 37vh;
+    top: 51vh;
+    left: 35vh;
     font-size: 2.5vh;
 
 }
